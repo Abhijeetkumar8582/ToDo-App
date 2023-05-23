@@ -1,0 +1,10 @@
+.innerDiv{
+    border:2px solid;
+        background-color:rgb(197, 255, 255);
+        box-shadow:2px 2px black;
+        border-radius: 10px;
+        font-size: medium;
+}
+.innerDiv:hover{
+    background-color: rgb(254, 193, 158);
+}
